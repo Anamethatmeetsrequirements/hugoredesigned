@@ -1,9 +1,0 @@
----
-title: "About"
-date: 2022-10-13T18:17:42+01:00
-draft: true
----
-
-The Environment Tracker is a public service dashboard for monitoring Britons' goal "to leave the natural environment in a better condition than we found it".
-
-The tracker provides 66 indicative statistics arranged into 10 broad themes though the changes inter-relate often on the ground. You can use this tracker to check and assess the overall condition of freshwater, marine, land, wildlife and plants, air and so on as recorded in England, as well as the pressures on them and the benefits from them.
